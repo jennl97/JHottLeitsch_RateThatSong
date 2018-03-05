@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">JHottLeitsch_RateThatSong</string>
+    <string name="txtSplash">Rate This Song</string>
+    <string name="imgSplash">Concert</string>
+    <string name="imgFreedom">Freedom</string>
+    <string name="imgRock">Rock</string>
+    <string name="imgSkateboard">Skateboard</string>
+    <string name="btnFreedom">Play Roadtrip song</string>
+    <string name="btnRock">Play Dudel Rock song</string>
+    <string name="btnSkateboard">Play Go For More song</string>
+    <string name="attribute">All songs downloaded from HookSounds.com</string>
+    <string name="rate1">Rate This Song</string>
+    <string name="rate2">Rate This Song</string>
+    <string name="rate3">Rate This Song</string>
+</resources>
